@@ -22,7 +22,7 @@ const options={
   },
   servers:[
   {
-  url:"http://localhost:8080"
+  url:"https://dull-tan-drill-gear.cyclic.app/"
   }
   ]
   },
